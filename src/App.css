@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.count {
+  font-size: 10rem;
+}
+
+.reset-button {
+  cursor: pointer;
+}
+
+.btn {
+  margin-bottom: 1rem;
+}
